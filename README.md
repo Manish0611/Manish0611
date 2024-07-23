@@ -5,15 +5,16 @@
 
 - 🔭 I’m currently working on **AI/ML Projects and web development**
 
-- 🌱 I’m currently learning **deeplearning**
+- 🌱 I’m currently learning **LLM Fine Tuning**
 
 - 📫 How to reach me **manish031122@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles and works:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dikshithula sai manish" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="dikshithula sai manish" height="40" width="40" /></a>
 <a href="https://instagram.com/_manish_0611" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="_manish_0611" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Rocky06/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="dsaimanish06" height="40" width="40" /></a>
+<a href="https://huggingface.co/Manish0611" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="dsaimanish06" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
