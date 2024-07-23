@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dikshithula sai manish" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="dikshithula sai manish" height="40" width="40" /></a>
 <a href="https://instagram.com/_manish_0611" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="_manish_0611" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/dsaimanish06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="dsaimanish06" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/Rocky06/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="dsaimanish06" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
