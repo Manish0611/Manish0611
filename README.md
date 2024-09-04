@@ -2,13 +2,15 @@
 <h3 align="center">Passionate AI/ML Enthusiast: Bridging Deep Learning and MERN Stack Development for Impactful Technological Advancements</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s2xkgviqgxby5mvow6oik4rzjm7ezcrcqu6q1ud1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-
-- 🔭 I’m currently working on **AI/ML Projects and web development**
-
-- 🌱 I’m currently learning **LLM Fine Tuning**
-
-- 📫 How to reach me **manish031122@gmail.com**
-
+<h3>Welcome to my project documentation</h3>
+<p>this portfolio contains a comprehensive list of my projects, works, and achievements. Please find the relevant links and details below.</p>
+<p>1) Fine-Tuning LLM's Work Documentation: <a href="https://drive.google.com/drive/folders/1UQEfRbdQ0jIsuw332iIrOq4SzxVN8xUT?usp=sharing">https://drive.google.com/drive/folders/1UQEfRbdQ0jIsuw332iIrOq4SzxVN8xUT?usp=sharing</a></p>
+<p>2)My Voice Assistance Research Work-(Under Review): <a href="https://drive.google.com/file/d/1TgmJcFKXnsEMCIj6IG8OFofd1c82YlYC/view">https://drive.google.com/file/d/1TgmJcFKXnsEMCIj6IG8OFofd1c82YlYC/view</a></p>
+<p>3)My chatbot Project:<a href="https://github.com/Manish0611/Health-care-ChatBox">https://github.com/Manish0611/Health-care-ChatBox</a></p>
+<p>Its output: <a href="https://drive.google.com/file/d/1HrDURRSD7A7jsZnI3hZq-PJsDk7_XqJm/view">Image</a></p>
+<br>
+<p>4)My Certificates:<a href="https://drive.google.com/file/d/1NqiIA86L2ldeFFQz5Z3fy0OJAcVncwrC/view">https://drive.google.com/file/d/1NqiIA86L2ldeFFQz5Z3fy0OJAcVncwrC/view</a></p>
+<p>5)currently working with <a href="https://www.linkedin.com/in/malka-n-halgamuge-b9929810/">Malka N. Halgamuge</a> ( IEEE & Chair, IEEE Computational Intelligence Society, Victorian Section, Australia) on Adaptive Resource Allocation for Dynamic LLM Inference: Balancing Performance and Energy Efficiency</p>
 <h3 align="left">Profiles and works:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dikshithula sai manish" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="dikshithula sai manish" height="40" width="40" /></a>
@@ -36,4 +38,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish0611&show_icons=true&locale=en&layout=compact" alt="manish0611" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish0611&show_icons=true&locale=en" alt="manish0611" /></p>
