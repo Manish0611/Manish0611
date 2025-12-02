@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dikshithula Sai Manish</h1>
-<h3 align="center">Passionate AI/ML Enthusiast: Bridging Deep Learning and MERN Stack Development for Impactful Technological Advancements</h3>
+<h3 align="center">Passionate AI/ML Enthusiast: Bridging Deep Learning for Impactful Technological Advancements</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s2xkgviqgxby5mvow6oik4rzjm7ezcrcqu6q1ud1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h2>Welcome to my project documentation</h2>
