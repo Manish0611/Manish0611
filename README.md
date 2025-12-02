@@ -26,9 +26,10 @@
 
 <p>4) My Certificates: <a href="https://drive.google.com/file/d/1NqiIA86L2ldeFFQz5Z3fy0OJAcVncwrC/view">https://drive.google.com/file/d/1NqiIA86L2ldeFFQz5Z3fy0OJAcVncwrC/view</a></p>
 
-<p>5) Currently working with <a href="https://www.linkedin.com/in/malka-n-halgamuge-b9929810/">Malka N. Halgamuge</a> 
+<p>5) Exploring research aligned with <a href="https://www.linkedin.com/in/malka-n-halgamuge-b9929810/">Dr. Malka N. Halgamuge</a> 
 (IEEE & Chair, IEEE Computational Intelligence Society, Victorian Section, Australia) 
-on Adaptive Resource Allocation for Dynamic LLM Inference: Balancing Performance and Energy Efficiency</p>
+on Adaptive Resource Allocation for Dynamic LLM Inference: Balancing Performance and Energy Efficiency.</p>
+
 
 <h3 align="left">Profiles and works:</h3>
 <p align="left">
